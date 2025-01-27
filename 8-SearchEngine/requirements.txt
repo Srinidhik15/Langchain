@@ -1,0 +1,36 @@
+ipykernel
+langchain
+python-dotenv    #what we have written in evn has to import all the key value pairs
+langchain-community
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters
+langchain-openai
+# chromadb
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+# langchain_chroma
+streamlit
+langchain_groq
+langchain_core
+fastapi
+uvicorn
+langserve
+sse_starlette
+langchainhub
+duckduckgo-search
+mysql-connector-python
+SQLAlchemy
+openai
+google-generativeai
+validators==0.28.1
+youtube_transcript_api
+numexpr
+huggingface_hub
+gradio
+
+
